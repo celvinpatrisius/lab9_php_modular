@@ -1,5 +1,7 @@
 # lab9_php_modular
 
+link lab10 : https://github.com/celvinpatrisius/lab10_php_oop
+
 # Patrisius Julio Celvin Jermat (311910677)
 # TI.19.F1
 
